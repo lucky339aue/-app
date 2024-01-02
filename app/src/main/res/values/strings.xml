@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="account_description">账号输入字段</string>
+</resources>
